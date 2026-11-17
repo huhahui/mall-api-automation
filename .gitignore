@@ -1,0 +1,14 @@
+
+*.pyc
+/common/__pycache__
+/.idea
+*.pyc
+/report/temp
+.venv/
+__pycache__/
+.pytest_cache/
+logs/
+report/
+extract.yaml
+.idea/
+.env
